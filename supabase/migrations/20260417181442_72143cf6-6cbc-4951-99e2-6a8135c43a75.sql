@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Authenticated users can update translations for existing hooks" ON public.biblia_hooks_translations;

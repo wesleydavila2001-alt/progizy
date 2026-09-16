@@ -1,0 +1,1 @@
+DO $$ BEGIN RAISE NOTICE 'Password leaked protection must be enabled via auth configuration, not SQL migration.'; END $$;
